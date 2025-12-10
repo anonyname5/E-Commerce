@@ -257,7 +257,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email ahmdsyukri09@gmail.com or open an issue in the repository.
 
 ## 🙏 Acknowledgments
 
